@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">External Storage Example</string>
+    <string name="back">Back</string>
+    <string name="show_private_data">SHOW PRIVATE DATA</string>
+    <string name="show_public_data">SHOW PUBLIC DATA</string>
+    <string name="add_text">Write below whatever you want in Tevyat</string>
+    <string name="click_to_view">View Document</string>
+    <string name="save_as_private">Private Save</string>
+    <string name="save_as_public">Public Save</string>
+</resources>
